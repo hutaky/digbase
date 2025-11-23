@@ -1,0 +1,18 @@
+{
+  "frame": {
+    "name": "DigBase",
+    "version": "1",
+    "iconUrl": "https://digbase.vercel.app/icon.png",
+    "homeUrl": "https://digbase.vercel.app/",
+    "splashImageUrl": "https://digbase.vercel.app/slpash.png",
+    "splashBackgroundColor": "#6200EA",
+    "subtitle": "DigBase",
+    "description": "Dig the base every day",
+    "primaryCategory": "games"
+  },
+  "accountAssociation": {
+    "header": "eyJmaWQiOjUxMTg0MywidHlwZSI6ImF1dGgiLCJrZXkiOiIweEVhQTJhNjkwRmIzZTExMDU0NDAxN0VmYTAyYmFjNmFGYWE3RTUyNTMifQ",
+    "payload": "eyJkb21haW4iOiJkaWdiYXNlLnZlcmNlbC5hcHAifQ",
+    "signature": "rwSAsKeH/mcA+vRDJ/Nf1X5nlscgSuNo1UdzeC5O5/QJ/zshkQywjIN59A/AMkLsyc9aHCwW5CP1MYnf7PLKexw="
+  }
+}
